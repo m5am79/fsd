@@ -1,0 +1,23 @@
+h1 {
+  color: red;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+h2 {
+  color: blue;
+}
+
+body {
+  margin: 0;
+  font-family: Raleway;
+  background-color: purple;
+}
+
+.weg {
+  color: white;
+}
+
+.fs {
+  color: red;
+}
